@@ -1,37 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Car Rental 3 🚘
 
-## Getting Started
+This repo allows users to choose cars and rent them with credit cards or Google Pay. Besides that, users can also get contact with salesman in Whatsapp.
 
-First, run the development server:
+# Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Backend used to display vehicle data on screen.
+- Stripe used in the payment screen.
+- Users can have a real conversation with the seller by clicking on the WhatsApp button.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Backend Datas
+- Next JS, Javascript
+- "use client"
+- API Calls
+- React Hooks
+- Props
+- Direct: window.location.href
+- Event Handling
+- Array Map
+- Array Filtering
+- Async Functions
+- Getting Host and Protocol Information with headers()
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Screen GIF
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Car_Rental_3
+![0921](https://github.com/user-attachments/assets/af683898-f587-48c4-8032-2483025eb635)
